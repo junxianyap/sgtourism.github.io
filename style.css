@@ -1,0 +1,32 @@
+body {
+    background-image: url("webdevassets/misc/papyrus.png");
+}
+
+.jumbotron {
+    background-color: antiquewhite;
+    color: red;
+    border: 5px solid;
+}
+
+.jumbotron * {
+    padding-left: 10px;
+}
+
+.nature-gallery .nature-gallery-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.card .card-img-top {
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.card .card-body {
+    color: antiquewhite;
+}
+
